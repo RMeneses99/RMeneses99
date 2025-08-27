@@ -18,9 +18,10 @@ I specialize in developing robust, high-throughput processing pipelines and tran
     ![Singularity](https://img.shields.io/badge/Singularity-89D32A?style=for-the-badge&logo=singularity&logoColor=white)<br>
     ![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=conda-forge&logoColor=white)<br>
 * **Version Control:**<br>
-    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>
-    ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)<br>
     ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)<br>
+    ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)<br>
+    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>
+
 * **HPC & OS:**<br>
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br>
     ![SLURM](https://img.shields.io/badge/SLURM-2275B5?style=for-the-badge&logo=linux&logoColor=white)<br>
