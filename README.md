@@ -32,6 +32,3 @@ I specialize in developing robust, high-throughput processing pipelines and tran
 
 * 🔬 **Currently:** I am developing and optimizing a scalable pipeline for shotgun metagenomics analysis to handle large-scale cohort data.
 * 💡 **Interests:** I am passionate about long-read sequencing applications in metagenomics, multi-omics data integration, and applying machine learning for biomarker discovery.
-
-
-[![Rui's GitHub stats](https://github-readme-stats.vercel.app/api?username=RMeneses99&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
