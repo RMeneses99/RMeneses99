@@ -8,7 +8,7 @@ I specialize in developing robust, high-throughput processing pipelines and tran
 
 ### 💻 My Tech Stack
 
-* **Languages:**
+* **Languages:**<br>
     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
     ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
     ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
