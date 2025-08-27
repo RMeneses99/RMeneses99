@@ -13,7 +13,7 @@ I specialize in developing robust, high-throughput processing pipelines and tran
     ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
     ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 * **Workflow Management:**<br>
-    ![Nextflow](https.img.shields.io/badge/Nextflow-23B7D4?style=for-the-badge&logo=nextflow&logoColor=white)
+    ![Nextflow](https://img.shields.io/badge/Nextflow-23B7D4?style=for-the-badge&logo=nextflow&logoColor=white)
 * **Containerization & Environments:**<br>
     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
     ![Singularity](https://img.shields.io/badge/Singularity-89D32A?style=for-the-badge&logo=singularity&logoColor=white)
