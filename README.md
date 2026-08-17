@@ -2,8 +2,6 @@
 
 I'm a **Bioinformatician** at the [Raes Lab, VIB (Flanders Institute for Biotechnology)](https://raeslab.sites.vib.be/en) in Leuven, Belgium 📍. My work focuses on the genomics, metagenomics, and ecology of the human gut microbiome. 🦠
 
-I specialize in developing robust, high-throughput processing pipelines and translating complex multi-omic data into actionable biological insights. I'm a strong advocate for reproducible research and open-source science.
-
 ---
 
 ### 💻 My Tech Stack
